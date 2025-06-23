@@ -55,4 +55,4 @@
 - Try more ML models
 
 ## 🙋‍♀️ Done by
-- Internship task by [Your Name]
+- Internship task by [Sharmila L]
